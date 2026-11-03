@@ -1,0 +1,10 @@
+SUShell$ echo hello | wc -c
+6
+SUShell$ seq 1 5 | tail -n 3 | wc -l
+3
+SUShell$ cat courses.txt | grep cs | wc -l
+2
+SUShell$ echo "abcdef" | rev
+fedcba
+SUShell$ exit
+Exiting shell...

@@ -1,0 +1,31 @@
+Thread ID: 139762479732288 | Status: Arrived at the location.
+Thread ID: 139762479732288 | Status: Only 1 visitors inside, starting solo shots.
+Thread ID: 139762471339584 | Status: Arrived at the location.
+Thread ID: 139762471339584 | Status: Only 2 visitors inside, starting solo shots.
+Thread ID: 139762462946880 | Status: Arrived at the location.
+Thread ID: 139762462946880 | Status: There are enough visitors, the tour is starting.
+Thread ID: 139762446161472 | Status: Arrived at the location.
+Thread ID: 139762454554176 | Status: Arrived at the location.
+Thread ID: 139762462946880 | Status: Tour guide speaking, the tour is over.
+Thread ID: 139762479732288 | Status: I am a visitor and I am leaving.
+Thread ID: 139762471339584 | Status: I am a visitor and I am leaving.
+Thread ID: 139762462946880 | Status: All visitors have left, the new visitors can come.
+Thread ID: 139762446161472 | Status: Only 1 visitors inside, starting solo shots.
+Thread ID: 139762429376064 | Status: Arrived at the location.
+Thread ID: 139762454554176 | Status: Only 2 visitors inside, starting solo shots.
+Thread ID: 139762429376064 | Status: There are enough visitors, the tour is starting.
+Thread ID: 139762420983360 | Status: Arrived at the location.
+Thread ID: 139762437768768 | Status: Arrived at the location.
+Thread ID: 139762412590656 | Status: Arrived at the location.
+Thread ID: 139762429376064 | Status: Tour guide speaking, the tour is over.
+Thread ID: 139762446161472 | Status: I am a visitor and I am leaving.
+Thread ID: 139762454554176 | Status: I am a visitor and I am leaving.
+Thread ID: 139762429376064 | Status: All visitors have left, the new visitors can come.
+Thread ID: 139762420983360 | Status: Only 1 visitors inside, starting solo shots.
+Thread ID: 139762437768768 | Status: Only 2 visitors inside, starting solo shots.
+Thread ID: 139762412590656 | Status: There are enough visitors, the tour is starting.
+Thread ID: 139762412590656 | Status: Tour guide speaking, the tour is over.
+Thread ID: 139762420983360 | Status: I am a visitor and I am leaving.
+Thread ID: 139762437768768 | Status: I am a visitor and I am leaving.
+Thread ID: 139762412590656 | Status: All visitors have left, the new visitors can come.
+The Main terminates.

@@ -1,0 +1,30 @@
+Thread ID: 140050497967680 | Status: Arrived at the location.
+Thread ID: 140050497967680 | Status: Only 1 visitors inside, starting solo shots.
+Thread ID: 140050489574976 | Status: Arrived at the location.
+Thread ID: 140050489574976 | Status: Only 2 visitors inside, starting solo shots.
+Thread ID: 140050481182272 | Status: Arrived at the location.
+Thread ID: 140050481182272 | Status: Only 3 visitors inside, starting solo shots.
+Thread ID: 140050472789568 | Status: Arrived at the location.
+Thread ID: 140050472789568 | Status: There are enough visitors, the tour is starting.
+Thread ID: 140050464396864 | Status: Arrived at the location.
+Thread ID: 140050456004160 | Status: Arrived at the location.
+Thread ID: 140050447611456 | Status: Arrived at the location.
+Thread ID: 140050439218752 | Status: Arrived at the location.
+Thread ID: 140050360694336 | Status: Arrived at the location.
+Thread ID: 140050481182272 | Status: I am a visitor and I am leaving.
+Thread ID: 140050497967680 | Status: I am a visitor and I am leaving.
+Thread ID: 140050472789568 | Status: I am a visitor and I am leaving.
+Thread ID: 140050489574976 | Status: I am a visitor and I am leaving.
+Thread ID: 140050489574976 | Status: All visitors have left, the new visitors can come.
+Thread ID: 140050464396864 | Status: Only 1 visitors inside, starting solo shots.
+Thread ID: 140050456004160 | Status: Only 2 visitors inside, starting solo shots.
+Thread ID: 140050439218752 | Status: Only 3 visitors inside, starting solo shots.
+Thread ID: 140050447611456 | Status: There are enough visitors, the tour is starting.
+Thread ID: 140050447611456 | Status: I am a visitor and I am leaving.
+Thread ID: 140050464396864 | Status: I am a visitor and I am leaving.
+Thread ID: 140050439218752 | Status: I am a visitor and I am leaving.
+Thread ID: 140050456004160 | Status: I am a visitor and I am leaving.
+Thread ID: 140050456004160 | Status: All visitors have left, the new visitors can come.
+Thread ID: 140050360694336 | Status: Only 1 visitors inside, starting solo shots.
+Thread ID: 140050360694336 | Status: My camera ran out of memory while waiting, I am leaving.
+The Main terminates.

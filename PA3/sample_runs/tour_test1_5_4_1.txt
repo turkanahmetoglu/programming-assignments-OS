@@ -1,0 +1,17 @@
+Thread ID: 140504018318912 | Status: Arrived at the location.
+Thread ID: 140504018318912 | Status: Only 1 visitors inside, starting solo shots.
+Thread ID: 140504035104320 | Status: Arrived at the location.
+Thread ID: 140504035104320 | Status: Only 2 visitors inside, starting solo shots.
+Thread ID: 140504009926208 | Status: Arrived at the location.
+Thread ID: 140504009926208 | Status: Only 3 visitors inside, starting solo shots.
+Thread ID: 140504001533504 | Status: Arrived at the location.
+Thread ID: 140504001533504 | Status: Only 4 visitors inside, starting solo shots.
+Thread ID: 140504026711616 | Status: Arrived at the location.
+Thread ID: 140504026711616 | Status: There are enough visitors, the tour is starting.
+Thread ID: 140504026711616 | Status: Tour guide speaking, the tour is over.
+Thread ID: 140504018318912 | Status: I am a visitor and I am leaving.
+Thread ID: 140504001533504 | Status: I am a visitor and I am leaving.
+Thread ID: 140504009926208 | Status: I am a visitor and I am leaving.
+Thread ID: 140504035104320 | Status: I am a visitor and I am leaving.
+Thread ID: 140504026711616 | Status: All visitors have left, the new visitors can come.
+The Main terminates.

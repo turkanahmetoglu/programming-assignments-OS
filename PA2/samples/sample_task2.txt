@@ -1,0 +1,59 @@
+Start 200 5 Setup0 Setup1 Setup2 Setup3 Setup4
+Setup0 400 8 Worker0 Worker1 Worker2 Worker3 Worker4 Worker5 Worker6 Worker7
+Setup1 400 8 Worker8 Worker9 Worker10 Worker11 Worker12 Worker13 Worker14 Worker15
+Setup2 400 8 Worker16 Worker17 Worker18 Worker19 Worker20 Worker21 Worker22 Worker23
+Setup3 400 8 Worker24 Worker25 Worker26 Worker27 Worker28 Worker29 Worker30 Worker31
+Setup4 400 8 Worker32 Worker33 Worker34 Worker35 Worker36 Worker37 Worker38 Worker39
+Worker0 1200 1 Merge0
+Worker1 800 1 Merge0
+Worker2 950 1 Merge0
+Worker3 1100 1 Merge0
+Worker4 1400 1 Merge1
+Worker5 700 1 Merge1
+Worker6 850 1 Merge1
+Worker7 1300 1 Merge1
+Worker8 1200 1 Merge2
+Worker9 800 1 Merge2
+Worker10 950 1 Merge2
+Worker11 1100 1 Merge2
+Worker12 1400 1 Merge3
+Worker13 700 1 Merge3
+Worker14 850 1 Merge3
+Worker15 1300 1 Merge3
+Worker16 1200 1 Merge4
+Worker17 800 1 Merge4
+Worker18 950 1 Merge4
+Worker19 1100 1 Merge4
+Worker20 1400 1 Merge5
+Worker21 700 1 Merge5
+Worker22 850 1 Merge5
+Worker23 1300 1 Merge5
+Worker24 1200 1 Merge6
+Worker25 800 1 Merge6
+Worker26 950 1 Merge6
+Worker27 1100 1 Merge6
+Worker28 1400 1 Merge7
+Worker29 700 1 Merge7
+Worker30 850 1 Merge7
+Worker31 1300 1 Merge7
+Worker32 1200 1 Merge8
+Worker33 800 1 Merge8
+Worker34 950 1 Merge8
+Worker35 1100 1 Merge8
+Worker36 1400 1 Merge9
+Worker37 700 1 Merge9
+Worker38 850 1 Merge9
+Worker39 1300 1 Merge9
+Merge0 1500 1 Validate0
+Merge1 1600 1 Validate0
+Merge2 1450 1 Validate0
+Merge3 1550 1 Validate0
+Merge4 1700 1 Validate0
+Merge5 1500 1 Validate1
+Merge6 1600 1 Validate1
+Merge7 1450 1 Validate1
+Merge8 1550 1 Validate1
+Merge9 1700 1 Validate1
+Validate0 2000 1 Finish
+Validate1 2000 1 Finish
+Finish 500 0

@@ -1,0 +1,8 @@
+Init 500 3 Parse Validate Fetch
+Parse 1000 1 Compile
+Validate 800 1 Compile
+Fetch 1200 1 Compile
+Compile 2000 2 Link Test
+Link 1500 1 Deploy
+Test 1500 1 Deploy
+Deploy 500 0

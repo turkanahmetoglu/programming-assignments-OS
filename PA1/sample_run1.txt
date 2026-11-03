@@ -1,0 +1,12 @@
+SUShell$ echo "hello cs307"
+hello cs307
+SUShell$ seq 1 3
+1
+2
+3
+SUShell$ uname -s
+Linux
+SUShell$ /bin/echo basic command works
+basic command works
+SUShell$ exit
+Exiting shell...

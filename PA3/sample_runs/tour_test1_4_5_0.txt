@@ -1,0 +1,13 @@
+Thread ID: 140557728917056 | Status: Arrived at the location.
+Thread ID: 140557728917056 | Status: Only 1 visitors inside, starting solo shots.
+Thread ID: 140557720524352 | Status: Arrived at the location.
+Thread ID: 140557720524352 | Status: Only 2 visitors inside, starting solo shots.
+Thread ID: 140557712131648 | Status: Arrived at the location.
+Thread ID: 140557712131648 | Status: Only 3 visitors inside, starting solo shots.
+Thread ID: 140557636597312 | Status: Arrived at the location.
+Thread ID: 140557636597312 | Status: Only 4 visitors inside, starting solo shots.
+Thread ID: 140557728917056 | Status: My camera ran out of memory while waiting, I am leaving.
+Thread ID: 140557720524352 | Status: My camera ran out of memory while waiting, I am leaving.
+Thread ID: 140557712131648 | Status: My camera ran out of memory while waiting, I am leaving.
+Thread ID: 140557636597312 | Status: My camera ran out of memory while waiting, I am leaving.
+The Main terminates.

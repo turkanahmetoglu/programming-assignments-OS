@@ -1,0 +1,10 @@
+DAG parsed successfully. Total jobs: 8. Starting simulation...
+Processor 0: Finished Init
+Processor 0: Finished Fetch
+Processor 0: Finished Validate
+Processor 0: Finished Parse
+Processor 0: Finished Compile
+Processor 0: Finished Test
+Processor 0: Finished Link
+Processor 0: Finished Deploy
+Simulation Complete. All 8 jobs executed successfully.

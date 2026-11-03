@@ -1,0 +1,10 @@
+SUShell$ cat < input1.txt
+alpha
+beta
+gamma
+SUShell$ wc -l < input1.txt
+3
+SUShell$ echo "written to file" > output1.txt
+SUShell$ wc -l < input1.txt > count.txt
+SUShell$ exit
+Exiting shell...

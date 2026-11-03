@@ -1,0 +1,15 @@
+SUShell$ (cat courses.txt ? grep cs courses.txt | wc -l : echo "error")
+cs
+math
+cs
+2
+SUShell$ (cat missing.txt ? grep cs courses.txt | wc -l : echo "error")
+cat: missing.txt: No such file or directory
+error
+SUShell$ (cat input1.txt ? cat input1.txt | wc -l : echo "bad input")
+alpha
+beta
+gamma
+3
+SUShell$ exit
+Exiting shell...
